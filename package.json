@@ -1,0 +1,28 @@
+{
+  "name": "azar",
+  "version": "0.0.1",
+  "description": "Pseudo Random Number Generator",
+  "keywords": ["pseudo-random", "random", "dice", "prng"],
+  "main": "index.js",
+  "repository":{
+    "type": "git",
+    "url": "http://github.com/rojo2/azar"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "contributors": [
+    {
+      "name": "Aitor Moreno",
+      "email": "aitor@rojo2.com",
+      "url": "http://rojo2.com",
+      "hireable": true
+    }
+  ],
+  "author": "ROJO 2 <hola@rojo2.com> (http://rojo2.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "mocha": "^2.2.1"
+  }
+}
