@@ -1,10 +1,15 @@
 {
   "name": "azar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Pseudo Random Number Generator",
-  "keywords": ["pseudo-random", "random", "dice", "prng"],
+  "keywords": [
+    "pseudo-random",
+    "random",
+    "dice",
+    "prng"
+  ],
   "main": "index.js",
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "http://github.com/rojo2/azar"
   },
