@@ -14,3 +14,5 @@ azar.fudge();
 // rolls a 6 sided dice.
 azar.dice(6);
 ```
+
+Made with ❤  by ROJO 2 (http://rojo2.com)
